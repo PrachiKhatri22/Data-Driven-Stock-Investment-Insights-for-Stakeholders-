@@ -17,6 +17,22 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
 <a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexInfo.csv">CSV File 2 </a> <br>
 <a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexProcessed.csv">CSV File 3 </a> <br>
 
+<h2>Questions that are answered by Key Performance Indicators:</h2>
+<ol>
+  <li>Which Stock Index is the best one to invest your money in, and why, according to the dataset?</li>
+  <li>What are the top 10 countries with the highest volume of Stock Indexes?</li>
+  <li>Which are the top 10 Stock Indexes with the highest volume?</li>
+  <li>What are the opening prices of different Stock Indexes?</li>
+  <li>What are the closing prices of different Stock Indexes?</li>
+  <li>What are the closing prices of different Stock Indexes?</li>
+  <li>What is the currency exchange rate with respect to the currency and Stock Indexes?</li>
+</ol> 
+
+
+
+
+
+
 
 
 
