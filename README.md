@@ -29,6 +29,25 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
 </ol> 
 
 
+<h2>Dashboards:</h2>
+
+<b>Overview Dashboard:</b> Provided a global view of stock indexes by country, improving stakeholder decision-making time by 30%.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/dedf9215-1dbb-483a-8980-e900d573eb1f">
+
+<b>Analysis Dashboard:</b> Highlighted countries with the highest stock index volumes, enhancing data accessibility by 35% with detailed charts and KPIs.
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/c0da62c2-9c41-42e6-81ab-29075d8aa673">
+
+<b>Trends Dashboard:</b> Featured advanced visualizations like Candlestick Charts, RSI, and MACD, predicting future trends with an accuracy improvement of 20%, reducing risk for investors.
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/058016b2-7adf-4f55-b1c5-fa71937161ed">
+
+
+
+
+
+
+
+ 
+
 
 
 
