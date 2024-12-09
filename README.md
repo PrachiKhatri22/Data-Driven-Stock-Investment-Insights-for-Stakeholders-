@@ -41,7 +41,7 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/058016b2-7adf-4f55-b1c5-fa71937161ed">
 
 Also checkout my Presentation:
-<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/100889770-Stock%20Data%20Analysis.pptx">
+<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/100889770-Stock%20Data%20Analysis.pptx">PowerPoint</a>
 
 <h2>Outcome:</h2>
 Delivered actionable insights for investors with limited stock analysis experience, facilitating data-driven investment decisions and reducing decision-making time by 25%.
