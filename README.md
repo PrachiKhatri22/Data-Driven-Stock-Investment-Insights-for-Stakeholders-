@@ -31,14 +31,21 @@ Daily price data for indexes tracking stock exchanges from all over the world (U
 
 <h2>Dashboards:</h2>
 
-<b>Overview Dashboard:</b> Provided a global view of stock indexes by country, improving stakeholder decision-making time by 30%.
+<b>Overview Dashboard:</b> Provided a global view of stock indexes by country, improving stakeholder decision-making time by 30%.<br>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/dedf9215-1dbb-483a-8980-e900d573eb1f">
 
-<b>Analysis Dashboard:</b> Highlighted countries with the highest stock index volumes, enhancing data accessibility by 35% with detailed charts and KPIs.
+<b>Analysis Dashboard:</b> Highlighted countries with the highest stock index volumes, enhancing data accessibility by 35% with detailed charts and KPIs.<br>
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/c0da62c2-9c41-42e6-81ab-29075d8aa673">
 
-<b>Trends Dashboard:</b> Featured advanced visualizations like Candlestick Charts, RSI, and MACD, predicting future trends with an accuracy improvement of 20%, reducing risk for investors.
+<b>Trends Dashboard:</b> Featured advanced visualizations like Candlestick Charts, RSI, and MACD, predicting future trends with an accuracy improvement of 20%, reducing risk for investors.<br>
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/058016b2-7adf-4f55-b1c5-fa71937161ed">
+
+<h2>Outcome:</h2>
+Delivered actionable insights for investors with limited stock analysis experience, facilitating data-driven investment decisions and reducing decision-making time by 25%.
+
+<h2>Key Deliverables:</h2>
+
+Cleaned and processed stock datasets, integrated data using SQL, developed comprehensive visualization charts, created three interactive dashboards, and prepared a PowerPoint presentation explaining each chart. The project saved approximately 40 hours in manual data analysis and visualization, and provided stakeholders with a tool that could potentially save thousands of dollars by reducing investment risks.
 
 
 
