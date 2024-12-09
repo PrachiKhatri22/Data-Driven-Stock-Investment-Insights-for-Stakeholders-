@@ -14,8 +14,9 @@ This project was developed to bridge the gap between raw stock data and actionab
 <h2>Dataset Used</h2>
 Daily price data for indexes tracking stock exchanges from all over the world (United States, China, Canada, Germany, Japan, and more). The data was all collected from Yahoo Finance, which had several decades of data available for most exchanges.<br>
 <a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexData.csv">CSV File 1 </a> <br>
-<a href="https://www.w3schools.com">CSV File 2 </a> <br>
-<a href="https://www.w3schools.com">CSV File 3 </a> <br>
+<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexInfo.csv">CSV File 2 </a> <br>
+<a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexProcessed.csv">CSV File 3 </a> <br>
+
 
 
 
