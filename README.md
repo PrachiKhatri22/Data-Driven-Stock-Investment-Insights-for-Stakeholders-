@@ -11,6 +11,13 @@ This project was developed to bridge the gap between raw stock data and actionab
 <b>Medium-Scale Businesses:</b> Companies seeking to diversify or optimize their investments with data-backed insights into stock performance and trends.<br>
 <b>Students:</b> Learners who are exploring finance and stock market trends, seeking a simplified way to understand complex data for educational and practical purposes.
 
+<h2>Technology Used</h2>
+<ul>
+  <li>SQL</li>
+  <li>Python</li>
+  <li>Tableau</li>
+</ul> 
+
 <h2>Dataset Used</h2>
 Daily price data for indexes tracking stock exchanges from all over the world (United States, China, Canada, Germany, Japan, and more). The data was all collected from Yahoo Finance, which had several decades of data available for most exchanges.<br>
 <a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexData.csv">CSV File 1 </a> <br>
