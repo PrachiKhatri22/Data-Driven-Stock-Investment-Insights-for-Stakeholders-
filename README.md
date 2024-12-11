@@ -7,8 +7,8 @@ Investing in the stock market can be daunting for small investors, medium-scale 
 This project was developed to bridge the gap between raw stock data and actionable insights. I aimed to simplify stock analysis, enabling users with little to no experience in data analytics to make informed investment decisions. The focus was to provide an intuitive, user-friendly platform that delivers key insights through visualizations and dashboards, reducing analysis time and empowering users to make smarter, data-driven choices.
 
 <h2>Who It Is Useful For</h2>
-<b>Small Investors:</b> Individuals who want to make informed decisions about stock investments but lack advanced tools or analytical expertise.
-<b>Medium-Scale Businesses:</b> Companies seeking to diversify or optimize their investments with data-backed insights into stock performance and trends.<br>
+<b>Small Investors:</b> Individuals who want to make informed decisions about stock investments but lack advanced tools or analytical expertise. <br>
+<b>Medium-Scale Businesses:</b> Companies seeking to diversify or optimize their investments with data-backed insights into stock performance and trends. <br>
 <b>Students:</b> Learners who are exploring finance and stock market trends, seeking a simplified way to understand complex data for educational and practical purposes.
 
 <h2>Technology Used</h2>
